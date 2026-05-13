@@ -111,10 +111,10 @@ anirudh = {
 <div align="center">
 
 <a href="https://github.com/AnirudhMKumar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=c96442&icon_color=c96442&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=c96442&icon_color=c96442&text_color=ffffff"/>
 </a>
 <a href="https://github.com/AnirudhMKumar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=c96442&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=c96442&text_color=ffffff"/>
 </a>
 
 <br><br>
@@ -127,9 +127,7 @@ anirudh = {
 <!-- NOTE TO ANIRUDH: You must run the github-snake action on your repo to generate this image! -->
 <!-- Learn how: https://github.com/Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnirudhMKumar/AnirudhMKumar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnirudhMKumar/AnirudhMKumar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnirudhMKumar/AnirudhMKumar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnirudhMKumar/AnirudhMKumar/output/ocean.gif">
 </picture>
 
 </div>
