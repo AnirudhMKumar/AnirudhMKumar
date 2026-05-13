@@ -109,17 +109,20 @@ anirudh = {
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
-
-<p align="center">
-  <a href="https://github.com/AnirudhMKumar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=c96442&icon_color=c96442&text_color=000000"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AnirudhMKumar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=c96442&text_color=000000"/>
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AnirudhMKumar">
+        <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=c96442&icon_color=c96442&text_color=000000"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AnirudhMKumar">
+        <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=c96442&text_color=000000"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AnirudhMKumar&theme=transparent&hide_border=true&stroke=c96442&ring=c96442&fire=e48662&currStreakLabel=c96442&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
