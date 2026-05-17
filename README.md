@@ -163,41 +163,50 @@ Demonstrates:
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+<p>
+  <a href="https://github.com/AnirudhMKumar">
+    <!-- <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=dark#gh-dark-mode-only"
+      alt="GitHub stats dark"
+      height="170"
+    /> -->
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=default#gh-light-mode-only"
+      alt="GitHub stats light"
+      height="170"
+    />
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=default&hide_border=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=default&hide_border=true">
-</picture>
+<p>
+  <a href="https://github.com/AnirudhMKumar">
+    <!-- <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only"
+      alt="Top languages dark"
+      height="170"
+    /> -->
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&langs_count=6&theme=default#gh-light-mode-only"
+      alt="Top languages light"
+      height="170"
+    />
+  </a>
+</p>
 
-</td>
-
-<td>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&theme=default&hide_border=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&theme=default&hide_border=true">
-</picture>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhMKumar&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhMKumar&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhMKumar&theme=default&hide_border=true">
-</picture>
+<p>
+  <!-- <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=AnirudhMKumar&theme=dark#gh-dark-mode-only"
+    alt="GitHub streak dark"
+  /> -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=AnirudhMKumar&theme=default#gh-light-mode-only"
+    alt="GitHub streak light"
+  />
+</p>
 
 </div>
 
