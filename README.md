@@ -156,7 +156,7 @@ anirudh = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-c96442?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://anirudhmkumar.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c96442)](https://www.linkedin.com/in/anirudh-kumar-870995298/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c96442)](https://www.linkedin.com/in/anirudhmkumar/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c96442)](https://github.com/AnirudhMKumar)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c96442)](mailto:anirudhmukundkumar@gmail.com)
 
