@@ -1,164 +1,245 @@
 <div align="center">
 
-<!-- Dynamic typing SVG header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3500&pause=800&color=C96442&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there%2C+I'm+Anirudh+%F0%9F%91%8B;Data+Analyst+%C3%97+Gen+AI+Builder)](https://git.io/typing-svg)
+<!-- ========================= -->
+<!-- Dynamic Intro -->
+<!-- ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C96442&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3500&pause=800&color=F2B6A0&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+there%2C+I'm+Anirudh+%F0%9F%91%8B;Data+Analyst+%C3%97+Gen+AI+Builder">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3500&pause=800&color=C96442&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+there%2C+I'm+Anirudh+%F0%9F%91%8B;Data+Analyst+%C3%97+Gen+AI+Builder">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3500&pause=800&color=C96442&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+there%2C+I'm+Anirudh+%F0%9F%91%8B;Data+Analyst+%C3%97+Gen+AI+Builder" alt="Typing SVG" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1E1E1E&height=140&section=header&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=C96442&height=140&section=header&animation=fadeIn">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C96442&height=140&section=header&animation=fadeIn" />
+</picture>
 
 </div>
 
-### 🧭 About Me
+# 👨‍💻 About Me
 
 <div align="center">
-  <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
+  <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif"/>
 </div>
 
 ```python
 anirudh = {
-    "role"     : "Aspiring Data Analyst",
-    "status"   : "Computer Engineering Student",
-    "focus"    : "Data Analyst Internship",
-    "stack"    : ["Python", "SQL", "Excel", "Tableau", "Gen AI"],
-    "building" : "Analytics × Generative AI workflows",
-    "contact"  : "anirudhmukundkumar@gmail.com"
+    "role"      : "Aspiring Data Analyst",
+    "education" : "Computer Engineering Student",
+    "focus"     : "Data Analytics + Generative AI",
+    "skills"    : ["Python", "SQL", "Excel", "Tableau", "Java"],
+    "building"  : "Analytics × AI-powered workflows",
+    "goal"      : "Turning raw data into clear business decisions",
+    "contact"   : "anirudhmukundkumar@gmail.com"
 }
 ```
 
-**TL;DR:** I turn raw data into clear decisions. My work combines analysis, visualization, and practical web development so the final output is useful, not just technical. 
+### 🚀 What I Do
+- 📊 Build dashboards and analytical workflows
+- 🤖 Explore Generative AI integrations
+- 🌐 Create practical web-based AI tools
+- 📈 Transform messy datasets into actionable insights
 
-- 🌱 **Currently learning:** Data Analytics with Gen AI.
-- 💡 **Fun fact:** I believe the best portfolio is not the one with the most projects, but the one that makes your thinking easy to see.
+### 🌱 Currently Learning
+- Advanced Data Analytics
+- AI-assisted automation workflows
+- Backend systems for scalable applications
+
+### 💡 Philosophy
+> “The best portfolio is not the one with the most projects — it’s the one that makes your thinking easy to understand.”
 
 <br clear="right"/>
 
 ---
 
+# 🛠️ Tech Stack
+
 <div align="center">
 
-## 🛠️ Tech Stack
+### Languages & Tools
 
-<br>
-
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,js&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git,github,vscode&perline=9" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoft-excel&logoColor=c96442" />
-  <img src="https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=c96442" />
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=c96442" />
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=c96442" />
-  <img src="https://img.shields.io/badge/Generative_AI-0d1117?style=for-the-badge&logo=openai&logoColor=c96442" />
+### Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-444444?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-444444?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-444444?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-444444?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-444444?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<br>
+## 📊 E-Commerce Sales & Delivery Dashboard
+Interactive Excel dashboard analyzing:
+- Sales performance
+- Regional revenue
+- Delivery efficiency
+- Customer order patterns
 
-### 📊 [E-Commerce Sales & Delivery Dashboard](https://github.com/AnirudhMKumar/ecommerce-sales-delivery-dashboard)
-> Interactive Excel dashboard for analyzing sales performance, delivery metrics, and regional revenue trends.
-> 
-> **Impact:** Highlighted `$35,258` revenue and tracked a `76%` fast delivery rate.
-> 
-> <a href="https://github.com/AnirudhMKumar/ecommerce-sales-delivery-dashboard"><img src="https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=c96442" /></a>
+### 🔥 Impact
+- Highlighted **$35,258 revenue**
+- Tracked **76% fast delivery rate**
 
-<br>
-
-### 🤖 [AI Image Generator (Txt2Img)](https://txt2img-one.vercel.app/)
-> A browser-based AI image generator with prompt enhancement, local history saving, and multiple model options.
-> 
-> **Impact:** Built a fully functional Gen AI experience using HTML/CSS/JS and Puter.js, completely free with no API keys.
-> 
-> <a href="https://txt2img-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-c96442?style=flat-square&logo=vercel&logoColor=white" /></a> <a href="https://github.com/AnirudhMKumar/Txt2Img"><img src="https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=c96442" /></a>
-
-<br>
-
-### 🎯 [Customer RFM Analysis](https://github.com/AnirudhMKumar/Customer-RFM-Analysis)
-> Customer segmentation project using Recency, Frequency, and Monetary analysis to identify marketing opportunities.
-> 
-> **Impact:** Processed `23,000+` transactions from `1,000` customers using Python, Pandas, and Seaborn.
-> 
-> <a href="https://github.com/AnirudhMKumar/Customer-RFM-Analysis"><img src="https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=c96442" /></a>
-
-<br>
-
-### 🛒 [Shopsphere E-Commerce App](https://github.com/AnirudhMKumar/Shopsphere-ecommerce-project)
-> A full-stack Java e-commerce web application featuring user authentication, product catalogs, and shopping carts.
-> 
-> **Impact:** Connects frontend pages with the backend systems that create real business data using Java, JSP, Servlets, and MySQL.
-> 
-> <a href="https://github.com/AnirudhMKumar/Shopsphere-ecommerce-project"><img src="https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=c96442" /></a>
-
-<br>
-
-### ☕ [Full-Stack Java Web Dev Journey](https://github.com/AnirudhMKumar/Full-Stack-Java-Web-Dev-Journey)
-> A structured collection of Java web development exercises and projects, ranging from Core Java to Jakarta EE.
-> 
-> **Impact:** A public learning trail that shows consistency, backend awareness, and web app fundamentals.
-> 
-> <a href="https://github.com/AnirudhMKumar/Full-Stack-Java-Web-Dev-Journey"><img src="https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=c96442" /></a>
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnirudhMKumar/ecommerce-sales-delivery-dashboard)
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 🤖 AI Image Generator (Txt2Img)
+Browser-based AI image generator featuring:
+- Prompt enhancement
+- Multiple model options
+- Local history saving
+- No API keys required
+
+### 🔥 Impact
+Built a fully functional Gen AI application using:
+- HTML
+- CSS
+- JavaScript
+- Puter.js
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-C96442?style=for-the-badge&logo=vercel&logoColor=white)](https://txt2img-one.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnirudhMKumar/Txt2Img)
+
+---
+
+## 🎯 Customer RFM Analysis
+Customer segmentation project using:
+- Recency
+- Frequency
+- Monetary analysis
+
+### 🔥 Impact
+- Processed **23,000+ transactions**
+- Analyzed **1,000+ customers**
+- Built with **Python + Pandas**
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnirudhMKumar/Customer-RFM-Analysis)
+
+---
+
+## 🛒 Shopsphere E-Commerce App
+A Java-based full-stack e-commerce platform featuring:
+- Authentication systems
+- Product catalogs
+- Shopping cart functionality
+- Database integration
+
+### 🔥 Tech Used
+`Java` `JSP` `Servlets` `MySQL`
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnirudhMKumar/Shopsphere-ecommerce-project)
+
+---
+
+## ☕ Full-Stack Java Web Dev Journey
+A public learning repository documenting:
+- Core Java
+- JDBC
+- JSP/Servlets
+- Jakarta EE
+- Web fundamentals
+
+### 🔥 Impact
+Demonstrates:
+- Consistency
+- Backend understanding
+- Real project progression
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnirudhMKumar/Full-Stack-Java-Web-Dev-Journey)
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AnirudhMKumar">
-        <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=c96442&icon_color=c96442&text_color=000000"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AnirudhMKumar">
-        <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=c96442&text_color=000000"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AnirudhMKumar&theme=transparent&hide_border=true&stroke=c96442&ring=c96442&fire=e48662&currStreakLabel=c96442&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+<table>
+<tr>
+<td>
 
-<br><br>
-
-<!-- GITHUB SNAKE GAME GRAPH -->
-<!-- NOTE TO ANIRUDH: You must run the github-snake action on your repo to generate this image! -->
-<!-- Learn how: https://github.com/Platane/snk -->
 <picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnirudhMKumar/AnirudhMKumar/output/ocean.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=default&hide_border=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnirudhMKumar&show_icons=true&theme=default&hide_border=true">
+</picture>
+
+</td>
+
+<td>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&theme=default&hide_border=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhMKumar&layout=compact&theme=default&hide_border=true">
+</picture>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhMKumar&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhMKumar&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhMKumar&theme=default&hide_border=true">
 </picture>
 
 </div>
 
 ---
 
-## 🏅 Certifications
+# 🐍 Contribution Graph
 
 <div align="center">
 
-[![IBM Generative AI Essentials](https://img.shields.io/badge/IBM-Generative_AI_Essentials-0d1117?style=for-the-badge&logo=ibm&logoColor=c96442)](https://courses.career247.skillsnetwork.site/certificates/78e24e76061142b1911e4182c82f1882)
-[![IBM AI Applications with Python & Flask](https://img.shields.io/badge/IBM-AI_Applications_Python_%26_Flask-0d1117?style=for-the-badge&logo=ibm&logoColor=c96442)](https://courses.career247.skillsnetwork.site/certificates/2f7921e39f6b4648a8d1360eee83b113)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnirudhMKumar/AnirudhMKumar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnirudhMKumar/AnirudhMKumar/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AnirudhMKumar/AnirudhMKumar/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🏅 Certifications
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-c96442?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://anirudhmkumar.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c96442)](https://www.linkedin.com/in/anirudhmkumar/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c96442)](https://github.com/AnirudhMKumar)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c96442)](mailto:anirudhmukundkumar@gmail.com)
+[![IBM Generative AI Essentials](https://img.shields.io/badge/IBM-Generative_AI_Essentials-444444?style=for-the-badge&logo=ibm&logoColor=white)](https://courses.career247.skillsnetwork.site/certificates/78e24e76061142b1911e4182c82f1882)
+
+[![IBM AI Applications with Python & Flask](https://img.shields.io/badge/IBM-AI_Applications_Python_%26_Flask-444444?style=for-the-badge&logo=ibm&logoColor=white)](https://courses.career247.skillsnetwork.site/certificates/2f7921e39f6b4648a8d1360eee83b113)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-C96442?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://anirudhmkumar.github.io/portfolio/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-444444?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhmkumar/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-444444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnirudhMKumar)
+
+[![Email](https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhmukundkumar@gmail.com)
 
 </div>
 
@@ -166,10 +247,14 @@ anirudh = {
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=AnirudhMKumar&style=flat-square&color=c96442&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=AnirudhMKumar&style=for-the-badge&color=C96442)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C96442&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1E1E1E&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=C96442&height=120&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C96442&height=120&section=footer" />
+</picture>
 
-*Built with focus, data, and a bit of Gen AI leverage ⚡*
+### ⚡ Built with focus, data, and a bit of Gen AI leverage
 
 </div>
